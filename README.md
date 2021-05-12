@@ -11,6 +11,8 @@ Repositórios:
 
 - [Arquivos de configurações - Config Server](https://github.com/MarceloJSSantos/microsservicos-em-spring-cloud-config)
 
+---------
+
 
 
 #### Desenvolvimento
@@ -33,17 +35,17 @@ Foram desenvolvidas as seguintes tarefas:
 
 #### Tecnologias e Dependências utilizadas
 
-- Java 11
-- Gradle p/ gerenciamento de dependências
-- Spring Boot (2.4.5)
+- **Java 11**
+- **Gradle** p/ gerenciamento de dependências
+- **Spring Boot (2.4.5)**
   - **Spring Web**
   - **Spring Data Elasticsearch (Access + Driver)**
   - **Spring Data Redis (Access + Driver)** 
   - **Spring Boot Actuator**
   - **Spring Cloud (Config Server e Client, Eureka Server e Client, Gateway, Bootstrap)**
-- Git/GitHub para versionamento do código
-- Elasticsearch e Redis como banco de dados
-- Docker para os ambientes dos BDs
+- **Git/GitHub** para versionamento do código
+- **Elasticsearch** e **Redis** como banco de dados
+- **Docker** para os ambientes dos BDs
 
 
 

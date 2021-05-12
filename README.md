@@ -7,6 +7,12 @@ Neste projeto foi desenvolvido um sistema backend (APIs) de e-commerce parcial (
 
 
 
+Repositórios:
+
+- [Arquivos de configurações - Config Server](https://github.com/MarceloJSSantos/microsservicos-em-spring-cloud-config)
+
+
+
 #### Desenvolvimento
 
 Foram desenvolvidas as seguintes tarefas:

@@ -94,6 +94,10 @@ Exemplo de corpo da requisição POST
 
 
 
+![](./img/solucao-completa.png)
+
+
+
 #### Melhorias futuras
 
 - Criação do módulo "Circuit Breaker" (ajuda a evitar que os serviços fiquem indisponíveis e que tenha falhas em cascata)
